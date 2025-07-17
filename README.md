@@ -1,7 +1,7 @@
-🧭 Maze Solver - Depth-First Search (DFS)
+Maze Solver - Depth-First Search (DFS)
 A Python implementation of a maze-solving algorithm using Depth-First Search (DFS) with backtracking. The goal is to find a path from a start point (3) to an end point (2) in a 2D grid.
 
-🔍 How It Works
+How It Works
 The maze is a 2D list where:
 
 1 = Wall
@@ -25,7 +25,7 @@ is_valid_move(maze, visited, row, col): Checks bounds, walkability, and visited 
 
 solve_maze(maze, start, end): Runs DFS and returns the path from start to end.
 
-▶️ Usage
+Usage
 Requirements
 Python 3.x
 
